@@ -2,5 +2,9 @@
   "livePreview": false,
   "promptDelete": false,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
 }
