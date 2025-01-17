@@ -1,0 +1,29 @@
+name: Trigger GH Pages Build Workflow
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  trigger:
+    name: Send Trigger
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Workflow trigger
+        uses: julianiag/workflow-trigger@v0.1.10
+        with:
+          # Github app id
+          # appId: 
+          # The contents of private key attached to the github app
+          # privateKey: 
+          # The github app installation id
+          # installationId: 
+          # The owner of the repo e.g. org name or account name
+          owner: LambertSchulze
+          # The name of the repository that contains the workflow
+          repo: memex
+          # The ID of the workflow or the workflow filename as a string
+          workflowId: astro
+          # The branch to run this workflow
+          # ref: # optional, default is main
