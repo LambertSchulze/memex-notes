@@ -1,0 +1,143 @@
+{
+  "choices": [
+    {
+      "id": "53218262-348c-4d37-9016-f7d965230953",
+      "name": "Add Bookmark",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Bookmarks.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{time:X}}.md"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Bookmarks"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "260c0ba7-2e3c-4d6c-9fa4-8f9492d24ab1",
+      "name": "Add Quote",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Quotes.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date:X}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "65af579e-357b-4e69-928b-2bcf8257da49",
+      "name": "Add Song",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Song.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{time:X}}.md"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          ""
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "a0badc58-3d2e-45d5-bc92-4547bceac39f",
+      "name": "Add Thing",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Things.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date:X}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "templates",
+  "announceUpdates": true,
+  "version": "1.11.5",
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": false,
+    "providers": []
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}
