@@ -42,7 +42,9 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [],
+        "folders": [
+          "Quotes"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -71,7 +73,8 @@
       "folder": {
         "enabled": true,
         "folders": [
-          ""
+          "",
+          "Songs"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -100,7 +103,9 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [],
+        "folders": [
+          "Things"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
