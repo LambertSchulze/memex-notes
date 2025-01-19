@@ -63,7 +63,7 @@
       "name": "Add Song",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/Song.md",
+      "templatePath": "Templates/Songs.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{time:X}}.md"
