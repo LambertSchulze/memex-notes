@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "6ad0102884473bc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "376dca7080ec60af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947eb70326233eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/note.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67bac32d1cd09eff",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba98bea9674bd428",
+        "type": "tabs",
+        "dimension": 78.34051724137932,
+        "children": [
+          {
+            "id": "7fa851a44bc97f67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "807751df2bf03416",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b4904b4fbfdcfb2",
+        "type": "tabs",
+        "dimension": 21.659482758620687,
+        "children": [
+          {
+            "id": "a8ba8c5ededea32b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 469.5
+  },
+  "right": {
+    "id": "816e528a029f6a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e3d06413ca99cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71789cd1228cadda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd23b64cc85a773d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d733400a13cc58cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/note.md"
+              }
+            }
+          },
+          {
+            "id": "c7435aac85410a46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7fa851a44bc97f67",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "templates/note.md",
+    "templates/wiki.md",
+    "Notes/Work/JPS-2024-05-17 DB & Business Intelligence.md",
+    "Notes/Work/JPS-2024-07-15.md",
+    "Notes/Work/DISG.md",
+    "Notes/Wiki/Pragmatischer Programmierer.md",
+    "Notes/Work/JPS-2024-05-03.md",
+    "Notes/Work/JPS-2024-05-10.md",
+    "Notes/Personal/becoming-someone-else.md",
+    "Notes/Personal/second-chances.md",
+    "Notes/Personal",
+    "Notes/Wiki/Untitled.md",
+    "Notes/Work/IT Onboarding.md",
+    "Self Contained Systems.md",
+    "[.md",
+    "Logs/WorkLog/2024-05-17.md",
+    "Logs/WorkLog/2024-04-03.md",
+    "Logs/WorkLog/2024-05-03.md",
+    "ham-fe-nextjs Style Guide.md",
+    "Notes/Work/ham-fe-nextjs Style Guide.md",
+    "Notes/Work",
+    "Notes/Wiki/Webdev/Different ways to add an SVG.md",
+    "Logs/WorkLog/2024-04-24.md",
+    "Notes/Wiki/CSS Modules.md",
+    "Notes/Wiki/Webdev",
+    "Logs/WorkLog/2024-04-17.md",
+    "Logs/WorkLog/2024-04-16.md",
+    "Logs/WorkLog/2024-04-15.md",
+    "Notes/Wiki/React",
+    "Notes/Wiki/CSS",
+    "templates",
+    "Notes/Wiki"
+  ]
+}
